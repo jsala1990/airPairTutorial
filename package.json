@@ -1,0 +1,25 @@
+{
+  "name": "airPairTutorial",
+  "version": "1.0.0",
+  "description": "Following tutorial",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsala1990/airPairTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsala1990/airPairTutorial/issues"
+  },
+  "homepage": "https://github.com/jsala1990/airPairTutorial"
+}
